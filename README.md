@@ -6,13 +6,11 @@ A mod aimed at increasing the overall grittiness and Battletech "feel" in the wo
 
 ### Battlech Mod Loader
 
-[https://github.com/Mpstark/BattleTechModLoader/releases][1] 
-[1]: https://github.com/Mpstark/BattleTechModLoader/releases
+https://github.com/Mpstark/BattleTechModLoader/releases
 
 ### Modtek
 
-[https://github.com/Mpstark/ModTek/releases][2] 
-[2]: https://github.com/Mpstark/ModTek/releases
+https://github.com/Mpstark/ModTek/releases
 
 ### Installation
 
