@@ -8,11 +8,11 @@ A mod aimed at increasing the overall grittiness and Battletech "feel" in the wo
 
 https://github.com/Mpstark/BattleTechModLoader/releases
 
-### Modtek
+#### Modtek
 
 https://github.com/Mpstark/ModTek/releases
 
-### Installation
+#### Installation
 
 Install the two above dependencies by following their instructions.
 
