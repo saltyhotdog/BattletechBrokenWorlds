@@ -4,7 +4,7 @@ A mod aimed at increasing the overall grittiness and Battletech "feel" in the wo
 
 ### Dependencies
 
-### Battlech Mod Loader
+#### Battlech Mod Loader
 
 https://github.com/Mpstark/BattleTechModLoader/releases
 
