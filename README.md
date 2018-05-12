@@ -52,32 +52,32 @@ Begin the game with only the mech from your background and yourself as a pilot.
 
 ### 102 [Planned] Background choice determines starting mech
 
-  * **PNT-9R** Draconis Combine
-  * **CDA-3C** Free Worlds League
-  * **FS9-H**  Federated Suns
-  * **COM-2D** Lyran Commonwealth
-  * **UM-R60** Cappelan Confederation
-  * **SDR-5V** Magistry of Canopus
-  * **JR7-D**  Taurian Concordat
-  * **LCT-1M** Rimward Periphery
-  * **LCT-1V** Deep Periphery
+  **PNT-9R** Draconis Combine  
+  **CDA-3C** Free Worlds League  
+  **FS9-H**  Federated Suns  
+  **COM-2D** Lyran Commonwealth  
+  **UM-R60** Cappelan Confederation  
+  **SDR-5V** Magistry of Canopus  
+  **JR7-D**  Taurian Concordat  
+  **LCT-1M** Rimward Periphery  
+  **LCT-1V** Deep Periphery  
 
 ### 103 [Planned] Initial incident choice determines starting equipment
 
-  * **LRM 5, 1 Ton LRM Ammo**           You were exiled.
-  * **1 Small Laser**                   You struck out on your own.
-  * **-10,000 Cbills, 2 Small Lasers**  Your family went bankrupt
-  * **2 Jump Jets (S)**                 Your family died in an accident
-  * **1 MG, 1 Ton MG Ammo**             Your family was betrayed  
+  **LRM 5, 1 Ton LRM Ammo**           You were exiled  
+  **1 Small Laser**                   You struck out on your own  
+  **-10,000 Cbills, 2 Small Lasers**  Your family went bankrupt  
+  **2 Jump Jets (S)**                 Your family died in an accident  
+  **1 MG, 1 Ton MG Ammo**             Your family was betrayed  
   
 ### 104 [Planned] Life choice determines starting equipment
 
-  * **1 Medium Laser 1 Small Laser**   Aurigan Coalition Soldier
-  * **2 Medium Lasers**                Frontier Pirate
-  * **1 AC/5, 1 Melee Mod**            Solaris Gladiator
-  * **10,000 Cbills, 1 Medium Laser**  Inner Sphere Mercenary
-  * **1 SRM 4**                        Frontier Freelancer
-  * **25,000 Cbills**                  Merchant Guard
+  **1 Medium Laser 1 Small Laser**   Aurigan Coalition Soldier  
+  **2 Medium Lasers**                Frontier Pirate  
+  **1 AC/5, 1 Melee Mod**            Solaris Gladiator  
+  **10,000 Cbills, 1 Medium Laser**  Inner Sphere Mercenary  
+  **1 SRM 4**                        Frontier Freelancer  
+  **25,000 Cbills**                  Merchant Guard  
 
 ### 105 [Planned] Adjust starting funds, expenses, and equipment
 
@@ -85,9 +85,9 @@ Start the game with less than one months worth of cbills in the bank. Probably a
 
 Starting equipment will be your choices plus:
 
-*1 Medium Laser
-*1 SRM 2
-*1 Ton SRM Ammo
+* 1 Medium Laser  
+* 1 SRM 2  
+* 1 Ton SRM Ammo  
 
 ### 106 [Planned] Sklip the tutorial
 
