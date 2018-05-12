@@ -95,7 +95,7 @@ Starting equipment will be your choices plus:
 * 1 SRM 2  
 * 1 Ton SRM Ammo  
 
-### 106 [Planned] Skip the tutorial
+### 106 [Done] Skip the tutorial
 
 You shouldn't play this mod until you do the main campaign at least once.
 
@@ -268,7 +268,7 @@ Enemy mechs may dynamically be assigned ++ weapons and other equipment. This may
 
 Have a few special variants of much more meta mechs that can be increasingly dangerous. Ideally their parts will just count towards the chassis they're based on. Most likely no new hardpoints will be added to these.
 
-### 603 [Planned] Add weight to gyro's and cockpit mods
+### 604 [Planned] Add weight to gyro's and cockpit mods
 
 Add a little more downside to taking cockpit mods and gyros. Probably not more than .5-2 tons. 
 

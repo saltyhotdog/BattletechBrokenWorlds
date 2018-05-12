@@ -1,0 +1,11 @@
+{
+    "Name": "Battletech Broken Worlds",
+    "Version": "0.0.1",
+    "Enabled": true,
+
+    "DependsOn": [],
+    "ConflictsWith": [],
+
+    "Manifest": [],
+
+}
