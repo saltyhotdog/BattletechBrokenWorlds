@@ -52,32 +52,38 @@ Begin the game with only the mech from your background and yourself as a pilot.
 
 ### 102 [Planned] Background choice determines starting mech
 
-  **PNT-9R** Draconis Combine  
-  **CDA-3C** Free Worlds League  
-  **FS9-H**  Federated Suns  
-  **COM-2D** Lyran Commonwealth  
-  **UM-R60** Cappelan Confederation  
-  **SDR-5V** Magistry of Canopus  
-  **JR7-D**  Taurian Concordat  
-  **LCT-1M** Rimward Periphery  
-  **LCT-1V** Deep Periphery  
+ | Faction                | Mech       |
+ |------------------------|------------|
+ | Draconis Combine       | **PNT-9R** |
+ | Free Worlds League     | **CDA-3C** |
+ | Federated Suns         | **FS9-H**  |
+ | Lyran Commonwealth     | **COM-2D** |
+ | Cappelan Confederation | **UM-R60** |
+ | Magistry of Canopus    | **SDR-5V** |
+ | Taurian Concordat      | **JR7-D**  | 
+ | Rimward Periphery      | **LCT-1M** | 
+ | Deep Periphery         | **LCT-1V** |
 
 ### 103 [Planned] Initial incident choice determines starting equipment
 
-  **LRM 5, 1 Ton LRM Ammo**           You were exiled  
-  **1 Small Laser**                   You struck out on your own  
-  **-10,000 Cbills, 2 Small Lasers**  Your family went bankrupt  
-  **2 Jump Jets (S)**                 Your family died in an accident  
-  **1 MG, 1 Ton MG Ammo**             Your family was betrayed  
+ | Incident                        | Bonus                              |
+ |---------------------------------|------------------------------------|
+ | You were exiled                 | **LRM 5, 1 Ton LRM Ammo**          |
+ | You struck out on your own      | **1 Small Laser**                  |
+ | Your family went bankrupt       | **-10,000 Cbills, 2 Small Lasers** |
+ | Your family died in an accident | **2 Jump Jets (S)**                |
+ | Your family was betrayed        | **1 MG, 1 Ton MG Ammo**            |
   
 ### 104 [Planned] Life choice determines starting equipment
 
-  **1 Medium Laser 1 Small Laser**   Aurigan Coalition Soldier  
-  **2 Medium Lasers**                Frontier Pirate  
-  **1 AC/5, 1 Melee Mod**            Solaris Gladiator  
-  **10,000 Cbills, 1 Medium Laser**  Inner Sphere Mercenary  
-  **1 SRM 4**                        Frontier Freelancer  
-  **25,000 Cbills**                  Merchant Guard  
+ | Life Choice               | Bonus                                    |
+ |---------------------------|------------------------------------------|
+ | Aurigan Coalition Soldier | **1 Medium Laser 1 Small Laser**         |
+ | Frontier Pirate           | **2 Medium Lasers**                      |
+ | Solaris Gladiator         | **1 AC/5, 1 Ton AC/5 Ammo, 1 Melee Mod** |
+ | Inner Sphere Mercenary    | **10,000 Cbills, 1 Medium Laser**        |
+ | Frontier Freelancer       | **1 SRM 4**                              |
+ | Merchant Guard            | **25,000 Cbills**                        |
 
 ### 105 [Planned] Adjust starting funds, expenses, and equipment
 
@@ -89,7 +95,7 @@ Starting equipment will be your choices plus:
 * 1 SRM 2  
 * 1 Ton SRM Ammo  
 
-### 106 [Planned] Sklip the tutorial
+### 106 [Planned] Skip the tutorial
 
 You shouldn't play this mod until you do the main campaign at least once.
 
