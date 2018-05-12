@@ -46,7 +46,7 @@ The game before the game. Starting with only one light mech and yourself as a pi
 
 This will not be an easy or forgiving part of your career, every mistake could cost you weeks of revenue in downtime. You will have to manage your resources very carefully to even make it to the first mission of the main campaign.
 
-### 101 [Planned] Start with only 1 mech and 1 pilot
+### 101 [Done] Start with only 1 mech and 1 pilot
 
 Begin the game with only the mech from your background and yourself as a pilot.
 
