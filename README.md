@@ -258,29 +258,33 @@ Anything from 3025 that can be put into the game will be in the game. Possibly s
 
 ## VII. Expand ship crew options
 
-Expand the leopard and argo to be able to hire crew to bring certain benefits to the unit.
+Expand the leopard and argo to be able to hire crew to bring certain benefits to the unit. Crew will use up slots in the barracks so that you will actually have a reason to have 24 crew!
 
-### 701 [Planned] Add Technicians
+### 701 [Planned] Crew Management Screen
+
+Either add crew to the barracks screen or potentially make an entirely new screen. This one will take some solutioning!
+
+### 702 [Planned] Add Technicians
 
 Technicians will generally add more tech points.
 
-### 702 [Planned] Add Doctors
+### 703 [Planned] Add Doctors
 
 Doctors will generally add more medbay points.
 
-### 703 [Research] Perks system
+### 704 [Research] Perks system
 
 Add perks to characters that modify their abilities in certain positive and negative ways.
 
-### 704 [Research] Accountants
+### 705 [Research] Accountants
 
 Accountants could reduce expenses. They would have a diminishing return so having more than one or two would not be worth it.
 
-### 705 [Research] Scientists
+### 706 [Research] Scientists
 
 Scientists could potentially upgrade weapons or fix 'broken' lostech items that could be made available cheaper?
 
-### 705 [Research] Chef / Entertainment
+### 707 [Research] Chef / Entertainment
 
 Crew that could make maintaining or gaining morale easier
 
