@@ -26,12 +26,12 @@ Your final installation path should be **/BATTLETECH/Mods/BrokenWorlds**
 
 This mod would not have been possible without the excellent work of the following people:
 
-Mpstark (https://github.com/Mpstark/)
+**Mpstark** (https://github.com/Mpstark/)
 * Battletech Mod Loader
 * ModTek
 * Building the basis of the modding community
 
-Morphyum (https://github.com/Morphyum/)
+**Morphyum** (https://github.com/Morphyum/)
 * All sorts of mods that will be listed here soon!
 
 ## Design Document
