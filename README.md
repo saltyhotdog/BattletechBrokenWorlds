@@ -99,7 +99,7 @@ Starting equipment will be your choices plus:
 
 You shouldn't play this mod until you do the main campaign at least once.
 
-### 107 [Planned] Expand starting area
+### 107 [Done] Expand starting area
 
 Add a few extra planets to the start area so it has more than 4 planets.
 
