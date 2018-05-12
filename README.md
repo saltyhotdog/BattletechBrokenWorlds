@@ -256,6 +256,14 @@ Other content additions that don't need their own design section.
 
 Anything from 3025 that can be put into the game will be in the game. Possibly some much rarer star league variants as well.
 
+### 602 [Planned] Dynamically give some mechs better equipment
+
+Enemy mechs may dynamically be assigned ++ weapons and other equipment. This may make them over tonned but this is okay as long as the game allows it.
+
+### 603 [Planned] Named enemy mechs
+
+Have a few special variants of much more meta mechs that can be increasingly dangerous. Ideally their parts will just count towards the chassis they're based on. Most likely no new hardpoints will be added to these.
+
 ## VII. Expand ship crew options
 
 Expand the leopard and argo to be able to hire crew to bring certain benefits to the unit. Crew will use up slots in the barracks so that you will actually have a reason to have 24 crew!
