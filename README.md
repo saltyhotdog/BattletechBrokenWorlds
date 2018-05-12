@@ -99,6 +99,10 @@ Starting equipment will be your choices plus:
 
 You shouldn't play this mod until you do the main campaign at least once.
 
+### 107 [Planned] Expand starting area
+
+Add a few extra planets to the start area so it has more than 4 planets.
+
 ## II. Economy
 
 The economic rebalances are intended to introduce complexity and meaningful decision making into how you manage your finances. Costs of most actions will be raised but rewards will be raised accordingly in some areas. Over extending your company should come with considerable financial risk.
@@ -263,6 +267,10 @@ Enemy mechs may dynamically be assigned ++ weapons and other equipment. This may
 ### 603 [Planned] Named enemy mechs
 
 Have a few special variants of much more meta mechs that can be increasingly dangerous. Ideally their parts will just count towards the chassis they're based on. Most likely no new hardpoints will be added to these.
+
+### 603 [Planned] Add weight to gyro's and cockpit mods
+
+Add a little more downside to taking cockpit mods and gyros. Probably not more than .5-2 tons. 
 
 ## VII. Expand ship crew options
 
