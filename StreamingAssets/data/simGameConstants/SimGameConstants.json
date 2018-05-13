@@ -178,7 +178,7 @@
 		"SystemUseEventsTag" : "SYSTEM_UseEvents",
 		"SystemUseMilestoneTag" : "SYSTEM_UseMilestone",
 		"SystemMissionCompleteCountStat" : "MissionsComplete",
-		"StartingCBills" : 980000,
+		"StartingCBills" : 95000,
 		"StartingMechTechSkill" : 3,
         "StartingMedTechSkill" : 6,
 		"DailyUpgradeValue" : 1,

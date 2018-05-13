@@ -1,0 +1,88 @@
+{
+    "Results" : [
+        {
+            "Stats" : [
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "NextStoryMilestone",
+                    "value" : 120,
+					"set" : true,
+                    "valueConstant" : ""
+                },
+                {
+                    "typeString" : "System.Single",
+                    "name" : "Difficulty",
+                    "value" : 2,
+					"set" : true,
+                    "valueConstant" : ""
+                },
+                {
+                    "typeString" : "System.Int32",
+                    "name" : "MissionsComplete",
+                    "value" : 0,
+					"set" : true,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_Laser_MediumLaser_0-STOCK",
+                    "value" : 1,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.WeaponDef.Weapon_SRM_SRM2_0-STOCK",
+                    "value" : 1,
+                    "valueConstant" : ""
+                },
+				{
+                    "typeString" : "System.Int32",
+                    "name" : "Item.AmmunitionBoxDef.Ammo_AmmunitionBox_Generic_SRM",
+                    "value" : 1,
+                    "valueConstant" : ""
+                }
+            ],
+            "Actions" : [
+
+				/* set in 111, repeated here for debug purposes */
+				{
+                    "Type" : "System_SetDropship",
+                    "value" : "Leopard",
+                    "valueConstant" : null
+                },
+				
+				/* set in 111, repeated here for debug purposes */
+				{
+					"Type" : "System_SimGameCharacterVisible",
+					"value" : false,
+					"additionalValues" : [
+						"Kamea",
+						"Alexander",
+						"Farah"
+					]
+				},
+				
+				/* set in 000, repeated here for debug purposes */
+                {
+                    "Type" : "System_SetContractScope",
+                    "value" : "TUTORIAL",
+                    "valueConstant" : null
+                },
+
+				/* set in 000, repeated here for debug purposes */
+                {
+                    "Type" : "System_SetTargetBreadcrumbSystem",
+                    "value" : "starsystemdef_Detroit",
+                    "valueConstant" : null
+                },
+				
+				/* This is a WORK AROUND for an Itrom bug at the beginning of the game */
+				{
+					"Type" : "System_ResetContracts",
+					"value" : "",
+                    "valueConstant" : null
+				}
+			]
+        }
+    ]
+}

@@ -70,7 +70,7 @@ Begin the game with only the mech from your background and yourself as a pilot.
  |---------------------------------|------------------------------------|
  | You were exiled                 | **LRM 5, 1 Ton LRM Ammo**          |
  | You struck out on your own      | **1 Small Laser**                  |
- | Your family went bankrupt       | **-10,000 Cbills, 2 Small Lasers** |
+ | Your family went bankrupt       | **-10,000 C-Bills, 2 Small Lasers**|
  | Your family died in an accident | **2 Jump Jets (S)**                |
  | Your family was betrayed        | **1 MG, 1 Ton MG Ammo**            |
   
@@ -81,13 +81,17 @@ Begin the game with only the mech from your background and yourself as a pilot.
  | Aurigan Coalition Soldier | **1 Medium Laser 1 Small Laser**         |
  | Frontier Pirate           | **2 Medium Lasers**                      |
  | Solaris Gladiator         | **1 AC/5, 1 Ton AC/5 Ammo, 1 Melee Mod** |
- | Inner Sphere Mercenary    | **10,000 Cbills, 1 Medium Laser**        |
+ | Inner Sphere Mercenary    | **10,000 C-Bills, 1 Medium Laser**       |
  | Frontier Freelancer       | **1 SRM 4**                              |
- | Merchant Guard            | **25,000 Cbills**                        |
+ | Merchant Guard            | **25,000 C-Bills**                       |
 
-### 105 [Planned] Adjust starting funds, expenses, and equipment
+### 105 [Done] Adjust starting funds, expenses, and equipment
 
-Start the game with less than one months worth of cbills in the bank. Probably around two thirds of whatever one months cost is.
+Start the game with **95,000 C-Bills.**  
+
+Starting monthly cost will be around **80,000 C-Bills** depending on mech choice.  
+
+Jumps will cost **30,000 C-Bills** and there are no contracts in the starting system, so beware!  
 
 Starting equipment will be your choices plus:
 
@@ -121,11 +125,11 @@ Since everything is getting more expensive, increase mission payouts a small amo
 
 ### 204 [Planned] Higher repair and refit costs
 
-Make armor addition and removal cost cbills. Make removing components take time if possible. Increase armor repair costs on heavier mechs.
+Make armor addition and removal cost C-Bills. Make removing components take time if possible. Increase armor repair costs on heavier mechs.
 
 ### 205 [Planned] Lower contract payments on campaign missions
 
-The main campaign missions pay a little too much based on their difficulty. The cbill payments for these missions will probably be lowered slightly.
+The main campaign missions pay a little too much based on their difficulty. The C-Bill payments for these missions will probably be lowered slightly.
 
 ### 206 [Planned] More economic affects from events
 
