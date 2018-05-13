@@ -55,15 +55,6 @@
 					]
                 }
             ],
-            "ForceEvents" : [
-				{
-					"Scope" : "Company",
-					"EventID" : "forcedevent_ancestral_battlemech_start",
-					"MinDaysWait" : 1,
-					"MaxDaysWait" : 1,
-					"Probability" : 100
-				}
-			],
             "TemporaryResult" : false,
             "ResultDuration" : 0
         }
